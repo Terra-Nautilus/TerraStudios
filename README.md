@@ -1,2 +1,2 @@
 # TerraStudios
-Terra Recorder is a opensource capture studio
+Terra Studios is a opensource capture studio
